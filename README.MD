@@ -1,1 +1,1 @@
-StoneFish™ is an upcoming Mancala Engine, that is written in C++, and is made to provide accurate top engine moves for Mancala.
+CarpCrusher™ is an upcoming Chess Engine, that is written in C++, and is made to provide accurate top engine moves for Chess. This program utilizes the UCI Protocol ([Learn more here](https://wikipedia.org/wiki/Universal_Chess_Interface)). This engine will utilize pvs searching, and other added techniques for better performance.
